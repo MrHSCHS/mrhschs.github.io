@@ -33,7 +33,14 @@ a{
 table{
     width:75%;
     margin-left:12.5%;
-    border:1px solid purple;
+    border:3px solid purple;
     color:purple;
     font-size:30px;
+}
+td{
+    border: 1px solid purple;
+}
+th{
+    border: 2px solid purple;
+    background-color:#f6ab56;
 }
