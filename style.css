@@ -30,3 +30,10 @@ a{
     text-decoration: none;
     font-size:25px;
 }
+table{
+    width:75%;
+    margin-left:12.5%;
+    border:1px solid purple;
+    color:purple;
+    font-size:30px;
+}
